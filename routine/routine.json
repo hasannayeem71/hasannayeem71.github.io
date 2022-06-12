@@ -1,0 +1,71 @@
+[
+  {
+    "day": "Sunday",
+    "batch": [
+      {
+        "batch": "52",
+        "classes": [
+          {
+            "time": "8:00-9:15",
+            "subject": "math",
+            "teacher": "joe",
+            "room": "101"
+          },
+          {
+            "day": "sunday",
+            "time": "9:30-10:45",
+            "subject": "math",
+            "teacher": "joe",
+            "room": "101"
+          },
+          {
+            "day": "sunday",
+            "time": "11:00-12:15",
+            "subject": "math",
+            "teacher": "joe",
+            "room": "101"
+          },
+          {
+            "day": "sunday",
+            "time": "12:30-13:45",
+            "subject": "math",
+            "teacher": "joe",
+            "room": "101"
+          }
+        ]
+      },
+      {
+        "batch": "50",
+        "classes": [
+          {
+            "time": "8:00-9:15",
+            "subject": "math",
+            "teacher": "habib",
+            "room": "101"
+          },
+          {
+            "day": "sunday",
+            "time": "9:30-10:45",
+            "subject": "math",
+            "teacher": "habib",
+            "room": "101"
+          },
+          {
+            "day": "sunday",
+            "time": "11:00-12:15",
+            "subject": "math",
+            "teacher": "habib",
+            "room": "101"
+          },
+          {
+            "day": "sunday",
+            "time": "12:30-13:45",
+            "subject": "math",
+            "teacher": "habib",
+            "room": "101"
+          }
+        ]
+      }
+    ]
+  }
+]
